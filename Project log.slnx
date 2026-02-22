@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../project_log_web/project_log_web.csproj" />
+  <Project Path="Project log.vcxproj" Id="3098d588-05b8-436e-8927-7a79d062d767" />
+</Solution>
